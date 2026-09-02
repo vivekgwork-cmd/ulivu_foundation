@@ -25,7 +25,7 @@ export const programs = [
   {
     icon: PiBinocularsFill,
     title: "Forest & Wildlife Conservation",
-    text: "Running litter clean-up drives with the Karnataka Forest Department's Umblebailu Range and joining Wildlife Week jungle walks near the Elephant Camp at Gajanur, Shivamogga.",
+    text: "Running large-scale highway and forest clean-up drives around Shivamogga with the Karnataka Forest Department's Umblebailu Range and Kuvempu University, and joining Wildlife Week jungle walks near the Elephant Camp at Gajanur.",
   },
   {
     icon: FaBullhorn,
@@ -34,8 +34,8 @@ export const programs = [
   },
   {
     icon: FaChalkboardTeacher,
-    title: "Education & Community Awareness",
-    text: "Bringing eco-friendly lifestyle workshops, World Environment Day programs and plastic-reduction sessions into schools and Grama Panchayats, from Bengaluru classrooms to Bhadravati villages.",
+    title: "Education & Women's Livelihoods",
+    text: "Running eco-friendly lifestyle workshops and World Environment Day programs in schools and Grama Panchayats, plus \"Charaka\" — a sustainable-living workshop teaching women traditional skills like hand-spinning yarn — while mentoring MSW interns to lead eco-sensitisation campaigns of their own.",
   },
   {
     icon: FaFlask,

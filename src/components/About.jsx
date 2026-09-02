@@ -71,9 +71,9 @@ export default function About() {
             The <strong className="text-gold-300">Symbiocene</strong> is the era we're trying to
             build — one where human life grows in symbiosis with the rest of the living world,
             instead of at its expense. Ulivu Foundation was founded by{" "}
-            <strong className="text-cream-50">Seena</strong>, an educator and researcher, to turn
-            that idea into everyday practice: in apartment courtyards, school grounds, forest
-            ranges and village panchayats across Karnataka.
+            <strong className="text-cream-50">Dr. Seema S. R.</strong>, an academician, researcher
+            and environmental changemaker, to turn that idea into everyday practice: in apartment
+            courtyards, school grounds, forest ranges and village panchayats across Karnataka.
           </motion.p>
           <motion.p custom={3} initial="hidden" whileInView="show" viewport={{ once: true }} variants={fadeUp}
             className="mt-4 text-[15px] leading-relaxed text-cream-100/70 sm:text-base">
